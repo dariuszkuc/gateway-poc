@@ -1,0 +1,8 @@
+graphql:
+  federation:
+    enabled: true
+  packages:
+    - "com.expediagroup.gateway.example"
+
+server:
+  port: 8081

@@ -1,0 +1,14 @@
+*.iml
+.idea/
+.DS_Store
+
+# gradle ignore
+.gradle
+build/
+out/
+
+# Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
+!gradle-wrapper.jar
+
+# Cache of project
+.gradletasknamecache
